@@ -3,8 +3,7 @@
 <!--
 **amanmoar-nit-kkr/amanmoar-nit-kkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
-
+<img src="https://i.pinimg.com/originals/09/e9/17/09e9171ce044f2722a93c7317c10bbf2.gif"/>
 - 🔭 I’m currently working on DS and Algorithms.
 - 🌱 I’m currently learning DS and Algorithms.
 - 👯 I’m looking to collaborate on JS.
