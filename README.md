@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 
 
 [![Aman's github stats](https://github-readme-stats.vercel.app/api?username=amanmoar-nit-kkr&theme=dark)](https://github.com/amanmoar-nit-kkr/DS-Algo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanmoar-nit-kkr&langs_count=8)](https://github.com/amanmoar-nit-kkr/DS-Algo)
